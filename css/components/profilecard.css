@@ -1,0 +1,42 @@
+.card{
+	position: absolute;
+	width: 463px;
+	height: 123px;
+	left: 0px;
+	top: 0px;
+
+	background: rgba(250, 104, 9, 0.71);
+}
+
+
+.logo{
+	position: absolute;
+	width: 68px;
+	height: 72px;
+	left: 365px;
+	top: 28px;
+
+	background: url(images/teet.png);
+	border-radius: 409px;
+}
+
+#container{
+	position: absolute;
+	width: 237px;
+	height: 79px;
+	left: 23px;
+	top: 22px;
+
+	background: rgba(80, 80, 80, 0.56);
+	border-radius: 90px
+}
+
+.star{
+	position: absolute;
+	width: 13px;
+	height: 13px;
+	left: 118px;
+	top: 80px;
+}
+
+

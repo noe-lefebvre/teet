@@ -1,0 +1,28 @@
+.btn-orange {
+	background-color: #FA6809;
+	padding: 10px 60px;
+	border-radius: 40px;
+	color: white;
+	font-weight: bold;
+	font font-family:"Alata";
+	font-size: 20px;
+}
+
+.btn-black {
+	background-color: black;
+	padding: 15px 20px;
+	border-radius: 40px;
+	color: white;
+	font-weight: bold;
+	font font-family:"Alata";
+}
+
+.btn-orange-profile {
+	background-color: #FCC19B;
+	padding: 10px 60px;
+	border-radius: 40px;
+	color: white;
+	font-weight: bold;
+	font font-family:"Alata";
+}
+
